@@ -1,9 +1,9 @@
 # Age Abalon Prediction
 
 
-This project sets out the prediction of abalones age from physical measurements. The input variables 
+This project sets out the prediction of abalones age from physical measurements. 
 
-This project is based on the data available at https://archive.ics.uci.edu/ml/datasets/Abalone
+This project is based on the data available at: https://archive.ics.uci.edu/ml/datasets/Abalone
 
 
 ## Data Set Information:

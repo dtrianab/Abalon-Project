@@ -13,6 +13,4 @@ abalon_data<-read.csv("./Abalon-Project/abalone.data", fill = TRUE,header = FALS
 # Rings / integer / -- / +1.5 gives the age in years
 colnames(abalon_data) <- c("Sex","Length","Diameter","Height","Whole_weight","Shucked_weight","Viscera_weight","Shell_weight","Rings")
 colnames(abalon_data)
-colnames(abalon_data)
-colnames(abalon_data)
 
