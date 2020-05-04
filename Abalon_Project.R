@@ -1,5 +1,5 @@
-setwd('C:/Users/DTriana/Google Drive/E-Learning/R')
-abalon_data<-read.csv("./Abalon-Project/abalone.data", fill = TRUE,header = FALSE)
+setwd('C:/Users/DTriana/Google Drive/E-Learning/R/Abalon-Project')
+abalon_data<-read.csv("./data/abalone.data", fill = TRUE,header = FALSE)
 # Name / Data Type / Measurement Unit / Description
 # -----------------------------
 # Sex / nominal / -- / M, F, and I (infant)
@@ -12,5 +12,4 @@ abalon_data<-read.csv("./Abalon-Project/abalone.data", fill = TRUE,header = FALS
 # Shell weight / continuous / grams / after being dried
 # Rings / integer / -- / +1.5 gives the age in years
 colnames(abalon_data) <- c("Sex","Length","Diameter","Height","Whole_weight","Shucked_weight","Viscera_weight","Shell_weight","Rings")
-colnames(abalon_data)
 
