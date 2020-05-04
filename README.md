@@ -1,7 +1,7 @@
 # Age Abalon Prediction
 
 
-This project sets out the prediction of the age of abalone from physical measurements
+This project sets out the prediction of abalones age from physical measurements. The input variables 
 
 This project is based on the data available at https://archive.ics.uci.edu/ml/datasets/Abalone
 
@@ -16,7 +16,7 @@ From the original data examples with missing values were removed (the majority h
 
 Given is the attribute name, attribute type, the measurement unit and a brief description. The number of rings is the value to predict: either as a continuous value or as a classification problem.
 
-### Name / Data Type / Measurement Unit / Description
+## Name / Data Type / Measurement Unit / Description
 -----------------------------
 Sex / nominal / -- / M, F, and I (infant)
 Length / continuous / mm / Longest shell measurement
