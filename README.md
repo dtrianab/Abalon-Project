@@ -1,8 +1,9 @@
 # Age Abalon Prediction
 
-This project is based on the data available at https://archive.ics.uci.edu/ml/datasets/Abalone
 
-Goal: Predict the age of abalone from physical measurements
+This project sets out the prediction of the age of abalone from physical measurements
+
+This project is based on the data available at https://archive.ics.uci.edu/ml/datasets/Abalone
 
 
 ## Data Set Information:
